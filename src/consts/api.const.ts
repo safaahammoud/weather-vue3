@@ -1,0 +1,1 @@
+export const baseURL = 'https://travel-dummy-api.netlify.app';
